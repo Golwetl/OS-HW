@@ -1,0 +1,289 @@
+    1  cd vladimir
+    2  mkdir vl
+    3  cd asd
+    4  cd src
+    5  cd opt
+    6  cd ..
+    7  cd home
+    8  mkdir srt
+    9  touch st.txt
+   10  mc
+   11  cd vladimir
+   12  mkdir adehome
+   13  cd adehome
+   14  wget https://gitlab.com/ApexAI/ade-cli/uploads/85a5af81339fe55555ee412f9a3a734b/ade+x86_64
+   15  mv ade+x86_64 ade
+   16  chmod +x ade
+   17  mv ade ~/.local/bin
+   18  which ade
+   19  MB/s) - ‘ade+x86_64’ saved [7999712/7999712]
+   20  ade update-cli
+   21  ./ade update-cli
+   22  touch .adehome
+   23  git clone --recurse-submodules https://gitlab.com/autowarefoundation/autoware.auto/AutowareAuto.git
+   24  cd AutowareAuto/
+   25  ade start
+   26  ade enter
+   27  cd ..
+   28  su root
+   29  mkdir smt
+   30  cd ..
+   31  mkdir smt
+   32  cd ..
+   33  mkdir smt
+   34  cd ..
+   35  mkdir smt
+   36  cd ..
+   37  mkdir smt
+   38  cd AutowareAuto/
+   39  cd ..
+   40  sudo usermod -aG sudo vladimir
+   41  cd ..
+   42  su root
+   43  ade start
+   44  su root
+   45  cd ..
+   46  cd AutowareAuto/
+   47  ade start
+   48  cd ..
+   49  cd AutowareAuto/
+   50  sudo ade start
+   51  ade start
+   52  docker-compose run --rm freqtrade create-userdir --userdir user_data
+   53  apt  install docker-compose
+   54  sudo apt  install docker-compose
+   55  sudo apt-get  install docker-compose
+   56  su root
+   57  ade start
+   58  sudo usermod -a -G wheel user
+   59  su root
+   60  ade start
+   61  cd vladimir
+   62  mkdir vladimir
+   63  ls -I
+   64  ls -l
+   65  cd sad
+   66  cd root
+   67  sudo cd root
+   68  sudo -i
+   69  cd root
+   70  chmod +x root
+   71  chown -R root:root /backup
+   72  su root
+   73  cd adehome
+   74  cd src
+   75  cd asdasd
+   76  s;l
+   77  cd /docs
+   78  cd ..
+   79  cd root
+   80  su root
+   81  cd adehome
+   82  sudo cd adehome
+   83  sudo apt update
+   84  cd adehome
+   85  su root
+   86  j6T9naKBkek887zj
+   87  su root
+   88  cd ..
+   89  cd root
+   90  кщще
+   91  cd ..
+   92  sudo whoami
+   93  sudo usermod -aG sudo vladimir
+   94  cd src
+   95  su root
+   96  su root
+   97  cd adehome
+   98  cd src
+   99  su root
+  100  cd adehome
+  101  su root
+  102  mc
+  103  cd root
+  104  su root
+  105  ade start
+  106  sudo ade start
+  107  cd ..
+  108  mv ade+x86_64 ade
+  109  chmod +x ade
+  110  cd ..
+  111  su root
+  112  cd home
+  113  cd vladimir
+  114  cd adehome/
+  115  cd AutowareAuto/
+  116  ade start
+  117  ade enter
+  118  screen -x
+  119  ps
+  120  docker ps
+  121  cd ..
+  122  mc
+  123  screen-x
+  124  screen -x
+  125  cd ..
+  126  cd home
+  127  cd vladimir/
+  128  ade enter
+  129  cd adehome/
+  130  cd AutowareAuto/
+  131  ade enter
+  132  cd AutowareAuto/
+  133  cd home
+  134  cd ..
+  135  cd home
+  136  cd vladimir/
+  137  cd adehome/
+  138  cd AutowareAuto/
+  139  ade enter
+  140  cd home
+  141  cd ..
+  142  cd home
+  143  cd vladimir/
+  144  cd adehome/
+  145  cd AutowareAuto/
+  146  screen -x
+  147  ade enter
+  148  sudo: unable to resolve host ade: Temporary failure in name resolution
+  149  sudo apt update && sudo apt install curl gnupg2 lsb-release
+  150  echo "deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/ros-archive-keyring.gpg] http://packages.ros.org/ros2/ubuntu $(lsb_release -cs) main" | sudo tee /etc/apt/sources.list.d/ros2.list > /dev/null
+  151  sudo apt install ros-dashing-desktop
+  152  sudo apt update
+  153  sudo apt install ros-dashing-desktop
+  154  sudo apt install ros-dashing-ros-base
+  155  locale  # check for UTF-8
+  156  sudo apt update && sudo apt install locales
+  157  sudo locale-gen en_US en_US.UTF-8
+  158  sudo update-locale LC_ALL=en_US.UTF-8 LANG=en_US.UTF-8
+  159  export LANG=en_US.UTF-8
+  160  locale  # verify settings
+  161  su root
+  162  mc
+  163  cd 
+  164  mc
+  165  ade enter
+  166  cd adehome/
+  167  cd AutowareAuto/
+  168  ade enter
+  169  cd adehome/
+  170  cd data
+  171  ls
+  172  cd ..
+  173  cd adehome/
+  174  ls
+  175  cd AutowareAuto/
+  176  ade enter
+  177  ade velodyne_driver velodyne_node source
+  178  cd adehome/
+  179  ade velodyne_driver velodyne_node source
+  180  cd AutowareAuto/
+  181  ade velodyne_driver velodyne_node source
+  182  git checkout f8c2ffbaa6223351ea5fa778e8b5e6127c5fa716
+  183  ade velodyne_driver velodyne_node source
+  184  mc
+  185  ls
+  186  mkdir test
+  187  cd test
+  188  mkdir src
+  189  gedit 
+  190  gedit cmakelist.txt
+  191  sudo apt  install geditsudo apt  install geditsudo apt  install geditkl
+  192  sudo apt  install gedit
+  193  gedit hello.c
+  194  printer.sh hello.c
+  195  touch hello.c
+  196  > hello.c
+  197  ls
+  198  rm hello.c 
+  199  ls
+  200  cd src
+  201  cd ..
+  202  touch hello.c
+  203  sudo nano hello.c
+  204  ls
+  205  sudo nano hello.c
+  206  clear
+  207  touch CMakeLists.txt
+  208  sudo nano CMakeLists.txt 
+  209  mkdir build && cd build
+  210  cmake ..
+  211  ls
+  212  cmake --build .
+  213  ./hello
+  214  cd ..
+  215  ls
+  216  rm CMakeLists.txt 
+  217  rm build/
+  218  rm build
+  219  ls
+  220  sudo rm -r -f build/
+  221  ls
+  222  rm hello.c 
+  223  ls
+  224  mkdir server
+  225  mkdir client
+  226  cd server
+  227  touch server.cpp
+  228  sudo nano server.cpp 
+  229  ls
+  230  cd ..
+  231  cd clinet
+  232  cd client/
+  233  touch TCP_Client.c
+  234  rm TCP_Client.c 
+  235  touch TCP_Client.cpp
+  236  sudo nano TCP_Client.cpp 
+  237  cd ..
+  238  gcc server.c -o ser
+  239  cd server
+  240  gcc server.c -o ser
+  241  gcc server.cpp -o ser
+  242  cd ..
+  243  cd client/
+  244  gcc server.cpp -o ser
+  245  ls
+  246  gcc TCP_Client.cpp -o tcpcli
+  247  cd ..
+  248  cd server/
+  249  gcc TCP_Client.cpp -o tcpcli
+  250  gcc server.cpp -o ser
+  251  gcc server.c -o ser
+  252  gcc server.cpp -o ser
+  253  touch client.cpp
+  254  gcc server.cpp -o ser
+  255  gcc UDP_client.cpp -o udpcli
+  256  ./udpcli 
+  257  cd test
+  258  cd server/
+  259  sudo nano server.cpp 
+  260  ls
+  261  rm ser
+  262  ls
+  263  sudo nano server.cpp 
+  264  ls
+  265  ./ser
+  266  sudo nano server.cpp 
+  267  ./ser
+  268  touch UDP_client.c
+  269  rm UDP_client.c 
+  270  touch UDP_client.cpp
+  271  sudo nano UDP_client.cpp 
+  272  ls
+  273  ./ser 
+  274  ls
+  275  cd test/
+  276  ls
+  277  cd server/
+  278  ls
+  279  sudo nano server.cpp
+  280  ls -help
+  281  ls --help
+  282  ls -1
+  283  ls -1 | grep 'gcc'
+  284  sort --help
+  285  ls -1 | grep 'gcc' | sort -r > ex1.txt
+  286  ls -1 | grep 'gcc' | sort -r > /home/vladimir/week1/ex1.txt
+  287  cat /home/vladimir/week1/ex1.txt 
+  288  ls
+  289  history > ex2.txt
